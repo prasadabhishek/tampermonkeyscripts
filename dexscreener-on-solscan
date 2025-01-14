@@ -1,3 +1,5 @@
+https://greasyfork.org/en/scripts/523704-dexscreener-button-on-solscan
+
 // ==UserScript==
 // @name         DexScreener Link on Solscan
 // @namespace    http://tampermonkey.net/
@@ -7,6 +9,7 @@
 // @match        https://solscan.io/token/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=solscan.io
 // @grant        none
+// license       MIT
 // ==/UserScript==
 
 // ==UserScript==
